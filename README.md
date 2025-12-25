@@ -1,109 +1,106 @@
-# Hi, I'm Charvi Joshi 👩‍💻
+# Charvi Joshi
 
-🚀 *B.Tech Computer Science Undergraduate | Full-Stack Developer | Open-Source Contributor*  
-📍 Indore, India  
-
----
-
-## 👩‍🎓 About Me
-
-I am a second-year *Computer Science Engineering* student with a strong foundation in *Data Structures, Web Development, and System Design fundamentals*. I enjoy building scalable applications, solving real-world problems through code, and contributing to impactful open-source projects.
-
-I am actively seeking *Software Engineering Internship* opportunities where I can learn, contribute, and grow as a developer.
+**B.Tech Computer Science Undergraduate | Software Engineering Intern Aspirant**  
+Indore, India
 
 ---
 
-## 🛠️ Technical Skills
+## Professional Summary
 
-*Programming Languages*  
-- C, C++, Java, Python, PHP  
-
-*Core Concepts*  
-- Data Structures & Algorithms  
-- Object-Oriented Programming (OOP)  
-- System Design Fundamentals  
-- Software Development Life Cycle (SDLC)  
-- Problem Solving & Optimization  
-
-*Web & Frameworks*  
-- HTML, CSS, JavaScript  
-- React.js, Next.js  
-- Tailwind CSS  
-
-*Databases*  
-- MySQL  
-- Firebase (NoSQL)  
-
-*Tools & Platforms*  
-- Git & GitHub  
-- Netlify, Vercel  
-- Figma  
+Computer Science undergraduate with strong fundamentals in **Data Structures, Algorithms, and Web Technologies**. Experienced in building full-stack applications, contributing to open-source projects, and collaborating in competitive technical environments. Demonstrates structured problem-solving ability, ownership of deliverables, and a clear understanding of the software development lifecycle. Actively seeking **Software Engineering Internship** opportunities.
 
 ---
 
-## 💼 Experience
+## Technical Skills
 
-### 🌟 Open-Source Contributor — GirlScript Summer of Code (GSSoC ’25)
-- Contributed to scalable codebases using *Java and Python*
-- Fixed critical bugs and optimized backend logic
-- Collaborated with distributed teams using Git version control
+**Programming Languages**  
+C, C++, Java, Python, PHP  
 
-### 🏆 Hackathon Finalist — IIT Indore (Fluxus)
-- Top 10 finalist for *“Study Hub”*, a resource-sharing platform
-- Implemented secure authentication
-- Improved frontend performance, reducing load time by *40%*
+**Computer Science Fundamentals**  
+Data Structures and Algorithms  
+Object-Oriented Programming (OOP)  
+System Design Fundamentals  
+Software Development Life Cycle (SDLC)  
+Problem Solving and Optimization  
 
-### 🎯 Placement Coordinator — Training & Placement Cell, SGSITS
-- Managed recruitment drives for *15+ companies*
-- Coordinated logistics for *500+ students*
-- Improved workflow efficiency through optimized data handling
+**Web Technologies & Frameworks**  
+HTML, CSS, JavaScript  
+React.js, Next.js  
+Tailwind CSS  
 
-### 🎨 UI/UX Freelancer
-- Designed and prototyped *5+ interfaces* using Figma
-- Improved user retention through user-centric design decisions
+**Databases**  
+MySQL  
+Firebase (NoSQL)
 
----
-
-## 🚀 Projects
-
-### 🔗 Vendor–Supplier Aggregator
-- Platform connecting small-scale vendors with suppliers
-- *Tech Stack:* React, Next.js, Tailwind CSS, Firebase
-- Focused on accessibility and real-time data handling
-
-### 🌐 Shree Sainath Packaging Website
-- Responsive business website for packaging advertisement
-- Built with HTML, CSS, JavaScript, jQuery
-- Improved frontend performance by *25%*
+**Developer Tools**  
+Git, GitHub  
+Netlify, Vercel  
+Figma  
 
 ---
 
-## 📜 Certifications
+## Experience
+
+### Open-Source Contributor — GirlScript Summer of Code (GSSoC ’25)
+- Contributed to production-level open-source repositories using Java and Python  
+- Resolved critical bugs and optimized backend logic to improve system reliability  
+- Collaborated with geographically distributed teams using Git-based workflows  
+
+### Hackathon Finalist — IIT Indore (Fluxus Hackathon)
+- Finalist among top teams for developing **Study Hub**, a resource-sharing platform  
+- Implemented secure authentication mechanisms  
+- Optimized frontend logic, achieving a **40% reduction in page load time**
+
+### Placement Coordinator — Training & Placement Cell, SGSITS
+- Coordinated recruitment drives for **15+ organizations**  
+- Managed logistics and data flow for **500+ students**  
+- Improved operational efficiency through structured data handling and reporting  
+
+### UI/UX Designer — Freelance
+- Designed and prototyped multiple web interfaces using Figma  
+- Delivered user-centric designs resulting in improved engagement and usability  
+
+---
+
+## Projects
+
+### Vendor–Supplier Aggregator
+- Web platform enabling seamless interaction between small-scale vendors and suppliers  
+- Built with React, Next.js, Tailwind CSS, and Firebase  
+- Focused on scalability, accessibility, and real-time data handling  
+
+### Shree Sainath Packaging Website
+- Responsive business website developed using HTML, CSS, JavaScript, and jQuery  
+- Improved frontend performance and ensured cross-platform compatibility  
+
+---
+
+## Certifications
 
 - Microsoft Full Stack Developer — Coursera  
 - OpenEDG C++ Programming Professional Certificate  
 - NPTEL — Database Management Systems  
-- AWS Solutions Architecture (Job Simulation)  
-- Deloitte Data Analytics & Technology (Job Simulation)  
-- Goldman Sachs Risk Engineering (Job Simulation)  
+- AWS Solutions Architecture — Job Simulation  
+- Deloitte Data Analytics & Technology — Job Simulation  
+- Goldman Sachs Risk Engineering — Job Simulation  
 
 ---
 
-## 🌱 Currently Learning
+## Areas of Current Focus
 
-- Advanced Data Structures  
-- Backend Architecture & Scalability  
-- System Design for Real-World Applications  
-
----
-
-## 📫 Connect With Me
-
-- *GitHub:* https://github.com/CharviiJoshi  
-- *LinkedIn:* https://linkedin.com/in/charvi-joshi-615a23325  
-- *Portfolio:* https://charvijoshiresume.netlify.app  
-- *Email:* charvijoshi70@gmail.com  
+- Advanced Data Structures and Algorithms  
+- Backend Architecture and Scalability  
+- System Design for Distributed Applications  
 
 ---
 
-⭐ Always open to collaboration, learning, and meaningful projects
+## Contact
+
+- **GitHub:** https://github.com/CharviiJoshi  
+- **LinkedIn:** https://linkedin.com/in/charvi-joshi-615a23325  
+- **Portfolio:** https://charvijoshiresume.netlify.app  
+- **Email:** charvijoshi70@gmail.com  
+
+---
+
+*Open to internships, collaborative projects, and open-source contributions.*
